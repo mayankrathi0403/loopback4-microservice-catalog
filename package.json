@@ -25,6 +25,5 @@
     }
   },
   "dependencies": {
-    "loopback4-authentication": "^4.4.0"
   }
 }
